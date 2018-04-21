@@ -1,0 +1,12 @@
+body{
+  background-color:#999;
+  color:white;
+  margin-top:20px;
+}
+#env{
+  background-color:black;
+  padding:10px;
+}
+.btn{
+  margin:5px;
+}
